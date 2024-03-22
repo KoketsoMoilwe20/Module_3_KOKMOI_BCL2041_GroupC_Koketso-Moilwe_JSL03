@@ -24,7 +24,7 @@ function cookSteak(steakWeight, desiredDoneness) {
     } else {
       return 'Steak needs more cooking.';
     }
-  }
+  }...
   
   // Usage example:
   const result = cookSteak(16, 63); // Cook a 16 oz steak to medium-rare (63°C)
